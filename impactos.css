@@ -63,3 +63,7 @@ section{
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+nav a:hover{
+    color: blueviolet;
+}
